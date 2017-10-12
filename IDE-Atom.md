@@ -28,7 +28,7 @@ apm install Sync Settings
 https://github.com/settings/tokens
 # 1. 创建tokens
 # 2. 勾选权限 Gist
-922f86fd31e6e032ae1752512a13a8d58a9081c6
+390b35b4dd2a278a7878f8fb375d103ec501f775
 ```
 ## 创建 gist
 ```
