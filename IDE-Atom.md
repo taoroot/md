@@ -29,7 +29,7 @@ apm install Sync Settings
 2. 勾选权限 Gist
 3. token 不通用,只能和一台设备绑定
 ```
-## github 上 gist[创建](https://gist.github.com/)
+## github 上 gist [创建](https://gist.github.com/)
 ```
 1. gist id 通用
 798d034a15c02ee52bcf2f97abfeef98
