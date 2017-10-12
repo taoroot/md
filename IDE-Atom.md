@@ -28,10 +28,15 @@ apm install Sync Settings
 https://github.com/settings/tokens
 # 1. 创建tokens
 # 2. 勾选权限 Gist
+922f86fd31e6e032ae1752512a13a8d58a9081c6
 ```
 ## 创建 gist
 ```
 https://gist.github.com/
+798d034a15c02ee52bcf2f97abfeef98
 ```
-## 在 Sync Settings 配置中添加token, 和 gist ID
- 
+## 配置中添加token, 和 Gist ID
+## 使用 Sync Settings
+```
+ctrl + shit + p 输入 sync 选择 backup
+```
