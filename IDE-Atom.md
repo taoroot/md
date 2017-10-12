@@ -23,20 +23,17 @@ apm config get https-proxy
 ```
 apm install Sync Settings
 ```
-## 创建 github personal access token
+## personal access token [创建](https://github.com/settings/tokens)
 ```
-https://github.com/settings/tokens
-# 1. 创建tokens
-# 2. 勾选权限 Gist
-390b35b4dd2a278a7878f8fb375d103ec501f775
+1. 创建tokens
+2. 勾选权限 Gist
+3. token 不通用,只能和一台设备绑定
 ```
-## 创建 gist
-```
-https://gist.github.com/
-798d034a15c02ee52bcf2f97abfeef98
-```
+## gist Id [创建](https://gist.github.com/)
 ## 配置中添加token, 和 Gist ID
 ## 使用 Sync Settings
 ```
-ctrl + shit + p 输入 sync 选择 backup
+Command --> sync
+backup 备份
+restore 同步
 ```
