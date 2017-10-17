@@ -3,6 +3,6 @@
 ```
 brew install privoxy
 vim /usr/local/etc/privoxy/config
-+++ listen-address  0.0.0.0:8118
++++ listen-address  0.0.0.0:1081
 +++ forward-socks5 / 127.0.0.1:1080 .
 ```
