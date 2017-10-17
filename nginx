@@ -12,3 +12,7 @@ To have launchd start nginx now and restart at login:
 Or, if you don't want/need a background service you can just run:
   nginx
 
+sudo nginx #启动nginx服务
+sudo nginx -s reload #重启nginx服务
+配置文件路径/usr/local/etc/nginx/nginx.conf
+安装之后默认的端口是8080
