@@ -13,9 +13,9 @@ tar -xvf libevent-2.0.22-stable.tar.gz
 sudo make install
 ```
 
-## 依赖 ncurses 下载
+## 依赖 ncurses-devel 下载
 ```
-yum install ncurses -y
+yum install ncurses-devel -y
 ```
 
 ## 编译工具
